@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/9bf1a1bcf371e65699cb8.jpg">
+    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/4874eca40594e3b152655.jpg">
   </a>
 </p>
     
@@ -84,7 +84,7 @@
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). And then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***get session id from suhial md till i make my own qr/pairing code***
 3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional` not necessary skip***
-4.  ***Click [`FORK`](https://github.com/Ednut001/naruto-Md/fork) and `Star ⭐ Repository` for Courage.***
+4.  ***Click [`FORK`](https://github.com/Ednut001/naruto-Md/fork) and `Star ⭐ Repository` for Courage. or else bot wont respond🤦***
 5.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Ednut001/naruto-Md)***
 - *only heroku deployment available for now please bare*🤝
 
